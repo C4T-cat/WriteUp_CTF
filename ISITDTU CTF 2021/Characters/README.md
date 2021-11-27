@@ -26,9 +26,16 @@ Quay trở lại **(2)** ta chuyển từ hex về ASCII sẽ được nội dun
 
 ![image](https://user-images.githubusercontent.com/72268643/143690038-97502302-9d74-4ec7-9162-ab83f5030594.png)
 
-Dựa vào (4) và (5)
+Dựa vào (4) và (5) ta sẽ suy ra flag từ đây. 
 
+Ta thấy ở danh sách này có tất cả 26 tên trùng hợp với 7+7+2+10. Do đó hướng làm sẽ là từng cầu thủ sẽ có 1 chữ cái để ghép thành flag
 
+Một cách thần kì nào đó, chữ cái cuối của 7 cầu thủ đầu tạo được cụm từ **isitdtu**
 
+![image](https://user-images.githubusercontent.com/72268643/143690798-712bb21a-6764-4f13-b902-0e322c00e51c.png)
 
+Vậy nên nếu ghép các chữ cái cuối của tên các cầu thủ ta sẽ có được: **isitdtunothingisimpossible**
 
+Dựa vào form flag ở **(4)** ta sẽ chia đoạn text thành 7 7 2 10 và ta sẽ có được flag là **isitdtu{nothing_is_impossible}**
+
+=> **DONE**
