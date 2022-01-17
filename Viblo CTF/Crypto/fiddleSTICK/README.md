@@ -10,7 +10,7 @@ Mở đầu chúng ta có cái ảnh này :)
 
 Sau đó chọn từng kí tự của ảnh gốc để decode ta được :) 
 
-Kết quả: **116 48 105 95 99 117 110 57 95 107 48 95 98 105 51 116** --Decimal--> t0i_cun9_k0_bi3t
+Kết quả: **116 48 105 95 99 117 110 57 95 107 48 95 98 105 51 116** --Decimal--> **t0i_cun9_k0_bi3t**
 
-Flag là: Flag{t0i_cun9_k0_bi3t}
+Flag là: **Flag{t0i_cun9_k0_bi3t}**
 
