@@ -18,4 +18,4 @@ Và để thấy được phần đó, chúng ta thu nhỏ trang web lại và
 
 ![image](https://user-images.githubusercontent.com/72268643/150108786-5ee2cbb7-0a87-4f3e-adc1-bea6a946fed7.png)
 
-Flag là: **Flag{g@i_xinh_vl}**
+Flag là: **Flag{g@i_xinh_v1}**
